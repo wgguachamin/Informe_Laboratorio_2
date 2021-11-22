@@ -32,7 +32,7 @@ Una malla es el camino que forman 2 o más ramas de un circuito. Además en una 
 
 - ANÁLISIS DE MALLAS
 
-
+Es un método general que sirve para resolver circuitos cuyos elementos están conectados en serie, en paralelo o de forma mixta, es decir, cuando no se distingue claramente el tipo de conexión. El circuito debe ser plano, o al menos debe ser posible re-dibujarlo como tal. A su vez este tipo de técnica emplea la LVK (Ley de los voltajes de Kirchhoff) con el objetivo de expresar voltajes en función de corrientes. 
 
 1.3. EXPLICACIÓN DEL PROCEDIMIENTO
 

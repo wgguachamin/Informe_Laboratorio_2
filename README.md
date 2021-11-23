@@ -68,13 +68,18 @@ I2 = 5/1756 = 2.847mA
 
 I3 = 3/6146 = 488µA
 
-Resultados de corrientes con simulador Tinkercad:
+Resultados de corrientes en el laboratorio virtual Tinkercad:
 
 ![image](https://user-images.githubusercontent.com/93960809/142963468-a456de6d-f273-4630-85bd-21b2495ed141.png)
 
-![image](https://user-images.githubusercontent.com/93960809/142963490-82f65c5d-ee0c-45be-b3aa-bb5bb14985b9.png)
+Resultados de corrientes en el simulador Multisim:
 
-Tabla 2.1 Resultados obtenidos para el circuito de la figura 2.1
+![image](https://user-images.githubusercontent.com/93960809/143025118-25b845d0-b5cd-4f19-bc75-6c1d4bc7ec9c.png)
+
+Tabla 2.1 Resultados obtenidos para el circuito de la figura 2.1:
+
+![image](https://user-images.githubusercontent.com/93960809/143025233-cb03fce6-e6b0-41b5-b40a-a5194d4aa88e.png)
+
 
 1.4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 

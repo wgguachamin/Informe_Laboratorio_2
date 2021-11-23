@@ -36,7 +36,15 @@ Es un método general que sirve para resolver circuitos cuyos elementos están c
 
 1.3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-1.4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+Analisis del Circuito
+
+![image](https://user-images.githubusercontent.com/93415377/142960467-72f18302-cfce-4d71-8c36-ee492a08175f.png)
+
+
+1.4. RESPUESTA A INTERROGANTES Y CALCULO DEL 
+
+![image](https://user-images.githubusercontent.com/93415377/142960421-8aad7c93-6dcb-4f8d-b068-1c23fa9f0340.png)
+
 
 1.5. VIDEO
 

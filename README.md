@@ -42,5 +42,13 @@ Es un método general que sirve para resolver circuitos cuyos elementos están c
 
 1.6. CONCLUSIONES
 
+- Al realizar el análisis completo del circuito se tiene que en total hay unicamente 3 mallas, es importante mencionar que no se deben de confundir a las mallas con las trayectorias, dado que una malla no posee ninguna rama en su interior, mientras que una trayectoria si puede tener 1 o más ramas en su interior.
+- 
+
 1.7. BIBLIOGRAFÍA
 
+-	Bustamente, J. (18 de Octubre de 2019). Obtenido de https://media.utp.edu.co/ingenieria-fisica/archivos/Practica_4Gen.pdf
+-	González, F. (02 de Junio de 2018). Obtenido de https://nanopdf.com/download/tema-3-5b1270f411227_pdf
+-	Infante, M. (2015). Solucionario de circuitos eléctricos en estado estable. Riobamba: La caracola.
+-	Salazar, A. (07 de Marzo de 2017). Obtenido de http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
+-	Yanez, E. (27 de Marzo de 2012). Obtenido de https://es.slideshare.net/amerika_09/mallas-y-nodos

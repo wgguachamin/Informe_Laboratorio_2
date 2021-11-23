@@ -76,6 +76,11 @@ Resultados de corrientes en el simulador Multisim:
 
 ![image](https://user-images.githubusercontent.com/93960809/143025118-25b845d0-b5cd-4f19-bc75-6c1d4bc7ec9c.png)
 
+Resultados de corrientes en el simulador Proteus:
+
+![image](https://user-images.githubusercontent.com/93960809/143041460-096f201d-12c6-400e-83c6-f6cd4484a45d.png)
+
+
 Tabla 2.1 Resultados obtenidos para el circuito de la figura 2.1:
 
 ![image](https://user-images.githubusercontent.com/93960809/143025233-cb03fce6-e6b0-41b5-b40a-a5194d4aa88e.png)

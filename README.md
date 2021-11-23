@@ -52,7 +52,6 @@ Analisis del Circuito
 
 - Al realizar el análisis completo del circuito se tiene que en total hay unicamente 3 mallas, es importante mencionar que no se deben de confundir a las mallas con las trayectorias, dado que una malla no posee ninguna rama en su interior, mientras que una trayectoria si puede tener 1 o más ramas en su interior.
 
-- Los datos que se obtuvieron tanto en tinkercard y en LiveWire varian un poco desde la primera corriente que ingresa al circuito, sin embargo se observo que este correctamente armado todo el circuito para realizar el mismo proceso que es identificar las mallas y analizar su corriente.
 - Los resultados obtenidos manualmente como en el simulador(TINKERKAD), varian en una minima proporcion debido a los factores utilizados en los calculos,  debido a esto  se diría que nunca daremos con una medida exacta ni precisa solo una aproximación.
 
 1.7. BIBLIOGRAFÍA

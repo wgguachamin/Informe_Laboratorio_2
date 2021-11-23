@@ -35,6 +35,10 @@ Una malla es el camino que forman 2 o más ramas de un circuito. Además en una 
 Es un método general que sirve para resolver circuitos cuyos elementos están conectados en serie, en paralelo o de forma mixta, es decir, cuando no se distingue claramente el tipo de conexión. El circuito debe ser plano, o al menos debe ser posible re-dibujarlo como tal. A su vez este tipo de técnica emplea la LVK (Ley de los voltajes de Kirchhoff) con el objetivo de expresar voltajes en función de corrientes. 
 
 1.3. EXPLICACIÓN DEL PROCEDIMIENTO
+Materiales y Equipos requeridos
+
+![image](https://user-images.githubusercontent.com/93415377/142961419-e8ca8402-a66a-44f0-9ede-18e390e9df3b.png)
+
 
 Analisis del Circuito
 
